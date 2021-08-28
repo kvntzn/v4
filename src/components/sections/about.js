@@ -126,7 +126,15 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = [
+    'JavaScript (ES6+)',
+    'React/React Native',
+    'Nodejs',
+    'Xamarin',
+    'Android',
+    'Kotlin',
+    'Flutter',
+  ];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,31 +143,29 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
+            <p>Hello! My name is Kevin Tuazon and I enjoy creating mobile apps.</p>
+
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Currently helping building a platform that makes a portal easily accessible to all
+              employees.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              Previously building an application that bringing financial literacy to the next
+              generation by giving parents the tools and guidance to teach their kids to be smart
+              with money.
             </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              I've had the privilege of working at startups,{' '}
+              <a href="https://filamsoftware.com/#home">a software development company</a> with
+              client. My main focus these days is building accessible, inclusive products and
+              digital experiences at <a href="https://www.iqor.com/">iQor</a> for iQor employees.
+            </p>
+
+            <p>
+              Aside from development, I'd like to spent my time with my family,{' '}
+              <a href="https://www.strava.com/athletes/81600008/">cycling</a>, photography,
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
