@@ -128,8 +128,10 @@ const About = () => {
 
   const skills = [
     'JavaScript (ES6+)',
-    'React/React Native',
+    'TypeScript',
     'Nodejs',
+    '.Net Core',
+    'React/React Native',
     'Xamarin',
     'Android',
     'Kotlin',
@@ -158,9 +160,9 @@ const About = () => {
 
             <p>
               I've had the privilege of working at startups,{' '}
-              <a href="https://filamsoftware.com/#home">a software development company</a> with
-              client. My main focus these days is building accessible, inclusive products and
-              digital experiences at <a href="https://www.iqor.com/">iQor</a> for iQor employees.
+              <a href="https://filamsoftware.com/#home">a software development company</a>. My main
+              focus these days is building accessible, inclusive products and digital experiences at{' '}
+              <a href="https://www.iqor.com/">iQor</a> for iQor employees.
             </p>
 
             <p>

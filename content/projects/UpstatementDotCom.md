@@ -1,12 +1,12 @@
 ---
-date: '2019-11-25'
-title: 'Upstatement.com'
+date: '2020-12-06'
+title: 'iQor.com'
 github: ''
-external: 'https://www.upstatement.com/'
+external: 'https://www.iqor.com/'
 tech:
-  - Nuxt
-  - Vue
+  - React Native
+  - Nodejs
   - Prismic
-company: 'Upstatement'
-showInProjects: false
+company: 'iQor'
+showInProjects: true
 ---
