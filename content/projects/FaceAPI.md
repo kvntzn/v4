@@ -10,4 +10,4 @@ showInProjects: true
 company: 'Personal'
 ---
 
-API for detecting faces
+Face api detection using Tensorflow and Nodejs.

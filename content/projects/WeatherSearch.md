@@ -9,4 +9,4 @@ showInProjects: true
 company: 'Personal'
 ---
 
-Weather Application
+Mobile application for made in Xamarin, Searching locations to check their weather predictions
