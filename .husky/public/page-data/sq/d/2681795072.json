@@ -1,0 +1,137 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "iQorian",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQoz4WSy2tTQRSH738gVVxYpLgSfFDER3DRhbgQXFUQN6G74gN8FJFCI1pERCi4si7daFAXgmBWBmvBhiRiS0zubbi1bqSJ5tHYm16Tksx9fDKTh01ceGDmnDmc+fidM6MJxwHfxxcOvu8jreM7Js+d3GapTCae5GMyQTqeVGd5XxTLuPZvNNFs/nO53xTQdVW8HHpIfOchXuw7RmzgIMbkfdxaHa++hVPZQHMAkV2lOvsMt2r3KOoumWsDjVv3KOw+irX/tPL6xF3c+hauXcNZ/4Umy2pvohSOj+L9KLaAntejVkHbOeNGiLWBYb4fOMXajsPo12+rvGxZqtQ6M6xtWDQajW6bblvRXyj4CIzgOMaZIAuR13w5N44evNwzHk1uxVKJ8KuXvI1EWIjF+DA/z7tolOfhMPFEnKplqWLPb6KPXeRrYJRP04/IjpxHH7vS7qo1Hs3zPGzbJpVKsbi0SDqTxlwxWc5meT83Ry6fZ9O2uwr0a1Pk9p6kMHKB3GCAzNVQC+i6LaAQgv+ZX6sjSusqzk49IL/nBD+PnCU/GMC4Od0FqpY7QKm0f8k5Si/KFZxyRb12auIOK9oQ33YNY2pDLF2abAGdPoXd77H9Zdux12jgWFUV5xOfMWeesPr4KebMLLlYctvP8PkDdrDG7vgR9/wAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4a66423bb35d21fa69aace066ba0f857/ec3b0/demo.png",
+                        "srcSet": "/static/4a66423bb35d21fa69aace066ba0f857/d51ae/demo.png 175w,\n/static/4a66423bb35d21fa69aace066ba0f857/90d1f/demo.png 350w,\n/static/4a66423bb35d21fa69aace066ba0f857/ec3b0/demo.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4a66423bb35d21fa69aace066ba0f857/13a4c/demo.avif 175w,\n/static/4a66423bb35d21fa69aace066ba0f857/024b9/demo.avif 350w,\n/static/4a66423bb35d21fa69aace066ba0f857/69de9/demo.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/4a66423bb35d21fa69aace066ba0f857/b85e0/demo.webp 175w,\n/static/4a66423bb35d21fa69aace066ba0f857/ab163/demo.webp 350w,\n/static/4a66423bb35d21fa69aace066ba0f857/9971e/demo.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 341
+                  }
+                }
+              },
+              "tech": ["React Native", "Nodejs", "Android", "iOS"],
+              "github": null,
+              "external": "https://play.google.com/store/apps/details?id=com.iqor.iqorian",
+              "cta": null
+            },
+            "html": "<p>Leading the engineering efforts for the one-stop-shop application iQor Employees.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Kachinga",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQoz3WR3WvTUADF83c5FRRE8NW3aRnOgThU8EnQF/cgip/sZTDci8o6cCrzYzApYxvb2qnY6rQfDLK1jVuzrk0/kiZpcpOftGnBTD1wHi73nsO550ieI9CrBlWlhm3Y+I7HYfgChAvCgbYNlul1z6paZ2M9QWI1zv6uCsJH8n0/JBaey/PxV1w9d4OhM6PcijyiVlagvg6tn2CkwExD8wvomZDW8zykbgLf7x46qGgH3L8yxZPRaWbuLRB9/JZisQhbY2w/O04xeoL89ClKLwfw1XeITgjhBB5+L2GfHWg1jWw6h9OwwXXJKyrK6k3IXKf68Tza4jDa0iWaKxGoxIJKOp30Ex42NC2LzytxCpsy+8UDfqRy5DLLfNUSFOpZHPMXwirhGkUsvUQg88OG/W/3bslkU7TtMjgtSrt7bMkyVUemoik09DYN3e7Ssl3+3OCfCQvZPV5MvGYuGmNuapHYbBw5nYRvH2iX89htG8uyuuwn62tDhsINRrkdmeCYdIEBaYij0jDXTj5gM5kkPx9H+b5DvW6gG60uhfBCYUIrCzco9u7lSQakQY5II5yVBnl4+iJLyxso23V2ZJWa1qRlWjSbBrpu0GjqCCH+7tATQcKFmTXujEzydOwNs+Pv+TS/Rss0gze9Nf+HjuFvk/bVH4qqkhAAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/dc1ba/demo.png",
+                        "srcSet": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/ddc1f/demo.png 175w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/e7c9b/demo.png 350w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/dc1ba/demo.png 700w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/cffaa/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/b2baf/demo.avif 175w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/682bc/demo.avif 350w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/f031f/demo.avif 700w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/2c0db/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/d8229/demo.webp 175w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/643e3/demo.webp 350w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/e52ac/demo.webp 700w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/e0d73/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 359
+                  }
+                }
+              },
+              "tech": ["Xamarin", ".Net Core", "Plaid", "Azure"],
+              "github": null,
+              "external": "https://kachinga.com/",
+              "cta": null
+            },
+            "html": "<p>Kachinga is a financial literacy platform that uses an intuitive app and a debit card with parental controls to help parents teach their kids to be smart with money.\nAvailable at <a href=\"https://play.google.com/store/apps/details?id=com.ecuiti.kachinga&#x26;hl=en_US%20target=\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Google Playstore</a> and <a href=\"https://apps.apple.com/us/app/kachinga/id1470044737?mt=8\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Apple App Store</a></p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Quizado",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB7UlEQVQ4y42Ry27TUBCG/QTO1XZuvia+HFVRquAEJw3ICZTEaeLjVl0gkEBKFt20kYKCQEhIXHZsWLFkxwPwBLzaj86hrhIoVRafjj1z5vPMWEgoxclsjnlMEccR5vEUSUJBaQJK6d4kSYLhcAhhNHqEr1/e49XFCywefsfL8BuOHz9BFEWYTqf8nEwmezEejyEEwX28ebvAxeI5Lv1fWLZ/YnAUYjDoo9vpot/vIwzDvRF6QRdnNMLV03P8OErwwX6Ad5sNPn7+hNebDdbrNXzf5+Jer3cnQRBA6HY7eHZ+isUoxOW9Oqgh4Ww2x9VqhdVqheVyiVarhXa7vReC4zhoNBowDQOWqsO26rAsC5qmoVar8dN13TtJHbZtQ2BFHiEgBwdoHR6ipqo3IoZ6/b5NtVrdgd1rNptcLsiKArVchlOpwCUeNFWFLMv/pVQq3VAul6EoCkfXdS4WMtksLFXFcceH7brQNQ35fB6FQmGHNMY6SjutVCr8IyyXy+X4syCKIohHMItimKYB0zSRzWb5hduEbAVMxLpK42nuWpgBcV3MoxPedr3+56ewwm1RejIZo1gs/pPjwowowiEexrOIyzzP4+NIknSrkO2Njb0t3REW8nlIsgzNMEAI4aOwcf/e4/YOWeF2PM2x2t96/ovKv9HN0AAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/b9f47010482630ae0a02b75db46e84b4/d2194/demo.png",
+                        "srcSet": "/static/b9f47010482630ae0a02b75db46e84b4/cebcc/demo.png 175w,\n/static/b9f47010482630ae0a02b75db46e84b4/272cf/demo.png 350w,\n/static/b9f47010482630ae0a02b75db46e84b4/d2194/demo.png 700w,\n/static/b9f47010482630ae0a02b75db46e84b4/b50c4/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/b9f47010482630ae0a02b75db46e84b4/9aa63/demo.avif 175w,\n/static/b9f47010482630ae0a02b75db46e84b4/e6db6/demo.avif 350w,\n/static/b9f47010482630ae0a02b75db46e84b4/f47db/demo.avif 700w,\n/static/b9f47010482630ae0a02b75db46e84b4/8fee6/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/b9f47010482630ae0a02b75db46e84b4/240e7/demo.webp 175w,\n/static/b9f47010482630ae0a02b75db46e84b4/faefe/demo.webp 350w,\n/static/b9f47010482630ae0a02b75db46e84b4/d5dc4/demo.webp 700w,\n/static/b9f47010482630ae0a02b75db46e84b4/e2f1a/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 438
+                  }
+                }
+              },
+              "tech": ["React", "Styled Components", "Express", "Spotify API", "Heroku"],
+              "github": null,
+              "external": "https://play.google.com/store/apps/details?id=com.heathkev.quizado",
+              "cta": "https://www.newline.co/courses/build-a-spotify-connected-app"
+            },
+            "html": "<p>A revamped version of my original Spotify Profile project.</p>\n<p>✨ Learn how to build this app from the ground up with my new course, <a href=\"https://www.newline.co/courses/build-a-spotify-connected-app\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Build a Spotify Connected App</a>. We cover how to implement <strong>Spotify's OAuth flow</strong> with Express.js, how to interact with the Spotify API with <strong>React hooks</strong> and <strong>async/await</strong>, how to build a professional, responsive UI with <strong>Styled Components</strong>, how to deploy an app with a React front-end and Node back-end with <strong>Heroku</strong>, and more. ✨</p>"
+          }
+        }
+      ]
+    }
+  }
+}

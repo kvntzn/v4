@@ -1,0 +1,134 @@
+{
+  "data": {
+    "featured": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "iQorian",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQoz4WSy2tTQRSH738gVVxYpLgSfFDER3DRhbgQXFUQN6G74gN8FJFCI1pERCi4si7daFAXgmBWBmvBhiRiS0zubbi1bqSJ5tHYm16Tksx9fDKTh01ceGDmnDmc+fidM6MJxwHfxxcOvu8jreM7Js+d3GapTCae5GMyQTqeVGd5XxTLuPZvNNFs/nO53xTQdVW8HHpIfOchXuw7RmzgIMbkfdxaHa++hVPZQHMAkV2lOvsMt2r3KOoumWsDjVv3KOw+irX/tPL6xF3c+hauXcNZ/4Umy2pvohSOj+L9KLaAntejVkHbOeNGiLWBYb4fOMXajsPo12+rvGxZqtQ6M6xtWDQajW6bblvRXyj4CIzgOMaZIAuR13w5N44evNwzHk1uxVKJ8KuXvI1EWIjF+DA/z7tolOfhMPFEnKplqWLPb6KPXeRrYJRP04/IjpxHH7vS7qo1Hs3zPGzbJpVKsbi0SDqTxlwxWc5meT83Ry6fZ9O2uwr0a1Pk9p6kMHKB3GCAzNVQC+i6LaAQgv+ZX6sjSusqzk49IL/nBD+PnCU/GMC4Od0FqpY7QKm0f8k5Si/KFZxyRb12auIOK9oQ33YNY2pDLF2abAGdPoXd77H9Zdux12jgWFUV5xOfMWeesPr4KebMLLlYctvP8PkDdrDG7vgR9/wAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/4a66423bb35d21fa69aace066ba0f857/ec3b0/demo.png",
+                        "srcSet": "/static/4a66423bb35d21fa69aace066ba0f857/d51ae/demo.png 175w,\n/static/4a66423bb35d21fa69aace066ba0f857/90d1f/demo.png 350w,\n/static/4a66423bb35d21fa69aace066ba0f857/ec3b0/demo.png 700w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/4a66423bb35d21fa69aace066ba0f857/13a4c/demo.avif 175w,\n/static/4a66423bb35d21fa69aace066ba0f857/024b9/demo.avif 350w,\n/static/4a66423bb35d21fa69aace066ba0f857/69de9/demo.avif 700w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/4a66423bb35d21fa69aace066ba0f857/b85e0/demo.webp 175w,\n/static/4a66423bb35d21fa69aace066ba0f857/ab163/demo.webp 350w,\n/static/4a66423bb35d21fa69aace066ba0f857/9971e/demo.webp 700w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 341
+                  }
+                }
+              },
+              "tech": ["React Native", "Nodejs", "Android", "iOS"],
+              "github": null,
+              "external": "https://play.google.com/store/apps/details?id=com.iqor.iqorian"
+            },
+            "html": "<p>Leading the engineering efforts for the one-stop-shop application iQor Employees.</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Kachinga",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAYAAAC0VX7mAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB8UlEQVQoz3WR3WvTUADF83c5FRRE8NW3aRnOgThU8EnQF/cgip/sZTDci8o6cCrzYzApYxvb2qnY6rQfDLK1jVuzrk0/kiZpcpOftGnBTD1wHi73nsO550ieI9CrBlWlhm3Y+I7HYfgChAvCgbYNlul1z6paZ2M9QWI1zv6uCsJH8n0/JBaey/PxV1w9d4OhM6PcijyiVlagvg6tn2CkwExD8wvomZDW8zykbgLf7x46qGgH3L8yxZPRaWbuLRB9/JZisQhbY2w/O04xeoL89ClKLwfw1XeITgjhBB5+L2GfHWg1jWw6h9OwwXXJKyrK6k3IXKf68Tza4jDa0iWaKxGoxIJKOp30Ex42NC2LzytxCpsy+8UDfqRy5DLLfNUSFOpZHPMXwirhGkUsvUQg88OG/W/3bslkU7TtMjgtSrt7bMkyVUemoik09DYN3e7Ssl3+3OCfCQvZPV5MvGYuGmNuapHYbBw5nYRvH2iX89htG8uyuuwn62tDhsINRrkdmeCYdIEBaYij0jDXTj5gM5kkPx9H+b5DvW6gG60uhfBCYUIrCzco9u7lSQakQY5II5yVBnl4+iJLyxso23V2ZJWa1qRlWjSbBrpu0GjqCCH+7tATQcKFmTXujEzydOwNs+Pv+TS/Rss0gze9Nf+HjuFvk/bVH4qqkhAAAAAASUVORK5CYII="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/dc1ba/demo.png",
+                        "srcSet": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/ddc1f/demo.png 175w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/e7c9b/demo.png 350w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/dc1ba/demo.png 700w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/cffaa/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/b2baf/demo.avif 175w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/682bc/demo.avif 350w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/f031f/demo.avif 700w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/2c0db/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/5ea4b7f36d93dfccf0e6981dd8b37955/d8229/demo.webp 175w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/643e3/demo.webp 350w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/e52ac/demo.webp 700w,\n/static/5ea4b7f36d93dfccf0e6981dd8b37955/e0d73/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 359
+                  }
+                }
+              },
+              "tech": ["Xamarin", ".Net Core", "Plaid", "Azure"],
+              "github": null,
+              "external": "https://kachinga.com/"
+            },
+            "html": "<p>Kachinga is a financial literacy platform that uses an intuitive app and a debit card with parental controls to help parents teach their kids to be smart with money.\nAvailable at <a href=\"https://play.google.com/store/apps/details?id=com.ecuiti.kachinga&#x26;hl=en_US%20target=\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Google Playstore</a> and <a href=\"https://apps.apple.com/us/app/kachinga/id1470044737?mt=8\" target=\"_blank\" rel=\"nofollow noopener noreferrer\">Apple App Store</a></p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Quizado",
+              "cover": {
+                "childImageSharp": {
+                  "gatsbyImageData": {
+                    "layout": "constrained",
+                    "placeholder": {
+                      "fallback": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFLElEQVQ4y3WUD2wTVRzHb9qyTUFwvd616117117vru312vXatZNRQlDRRSQRSDAhJgbUKBFDMWoiIQIhhCAQjIow2fg3/v9X/o5/hiUi/42CgOCgZvzZGAMXYOOt/ZrrECTRl3zyfe/l8n3fy/v9HkVRFEXTNPV/o3///pSu65SqqpTb7aZcLhfF8/wD5R7uSZJEiaJYRPV9ui8lisI7PM/t5jhuC8dxW3txbSkvL9/h8Xi+TiYTxZqm8ZLkW+H1ejf6/dJ6E0mS1vt83nWiKG5WVXWoLMsUpQWDz/j9/ms+SYKsyFAUGbIsQVGVwton+aAoSpXH45nocDjAsixsNhvKysoKStM0zH23272Xpm2Fvyqr/WbR5ZutN9DWcv3+tSvtpOVaB2lvvUE62zu7Nq3ZhlQqMdjtdk/2yxKCoWAXx3HEhOc54nK5uqJ6DKoa2DPy1TcKhs/Oa1iUPYc2nOq+mvuz5bd898n9ON1xIX8et8mqH3bBSMaqJUnKVOgGkokkiWhaPqxpCIW0vK6FiVGRhKKouxMVg3sTTlg8PVt/swmL2g/ltv6+C9v3LsGsU+uw9PaPZPqBOlSk4jVeQciEojFo8RjRkilEk5VIVhkIxvSeRFKH3+879M9Flk1bsSB78O55NHb8mms4exCf71+PbVeOoamnmSxu2gQjFX+esbOZt8aNxMwZ48ns2ZMxZ96nmDF9Aia9N7Zn+gc10ELSwa7mUb2Gy5cuzXa0taO9tS2Hxwc5dfwEUpWVQ8rs9sybsSjmjR1NPhqWxMxRcUwdMwKfVKXJuJph8Mv+fa+MGtlrWF9fn21tbcOlS5dz16+3wuTKlavo7r5Pjhw5ilQqNYJlmYxbEGEkqkgkWolAKAK/LMOnKD0ujwCXy3UYwBMFwxUrl2e7yF/ovNueu9N1CyZdpLOQ8Ojxw4jHEzUsy2bcbje0cIh4/T54RAG8xwM1GOxR/H44nY4mAL0JF35Rn923Novv6s/l9qxqxt41zdi+9Dx2LmsmDbU7MPSl59Isw2YYloWX50lNNILXqgdi7IsvoFpVCOt0wulwND68lC/n1mU3zr+AZdN+zjXM+gWr55zGylmnsXbOJdKwsBHDhg9MMzSTcfE8qrQQmTl6FOZOfB+bP5uK8YOqCe/1otzp2PPQcMmKumwHbuEO7uUICO7hLm51XwVwh+xvakREr0gzjD0jCF4YeoykIhGkKxMYEo8jKMuE4/nHE06pm5fd0HEEO0+syq25eQyrv1+OKR+OwfyZ75K3X38ZIdWbttuZjCAIqExWklA4DDUQQDCsIRKNEq/XC4ZhHhl+VV+bbe68iT+uXsydvdWClovncObArnzLyZ/I+tpvEdRCaY5zZVRVha6Hia6HYc7NlguHwyQSiYDn+UY7zfS23qYNmy4/qDuzDvP/gpw5dxa6rg/iONckn8+HQCBA/H45HwwG87Ks5lVVJYqiwHytWNZBUU+VltpUVb0WT8RhGEaPEY/njVgsZxgxU7vNnuU4bojNZvvYYrGguLj4vsViyZWUlOQslidNvd+nTx/069fvYCGeWTtWq2WXOf0vioqK7no8bt5msw0vKSmGaWq1WmG1WtDHai2sTcMBAwYsKC0tpahAIECl04P6S5JkiKJgCIIQNxFF0RBFMaHrusdmsxUOLi8v1+00XU3T9EC6oLZqu50eyLJsUtNCJYIgUOZrXRQMBimn00mxLPsYDgdLmR/Z7fYi05DjOIqx2ymGYSiGeaROp4OqqIhSXq9I/Q3ZeZDuEIWCdQAAAABJRU5ErkJggg=="
+                    },
+                    "images": {
+                      "fallback": {
+                        "src": "/static/0ffcb090c866541ff1f774c642545c16/3f5c0/demo.png",
+                        "srcSet": "/static/0ffcb090c866541ff1f774c642545c16/41cc8/demo.png 175w,\n/static/0ffcb090c866541ff1f774c642545c16/1de3b/demo.png 350w,\n/static/0ffcb090c866541ff1f774c642545c16/3f5c0/demo.png 700w,\n/static/0ffcb090c866541ff1f774c642545c16/58652/demo.png 1400w",
+                        "sizes": "(min-width: 700px) 700px, 100vw"
+                      },
+                      "sources": [
+                        {
+                          "srcSet": "/static/0ffcb090c866541ff1f774c642545c16/00dc1/demo.avif 175w,\n/static/0ffcb090c866541ff1f774c642545c16/06284/demo.avif 350w,\n/static/0ffcb090c866541ff1f774c642545c16/717a4/demo.avif 700w,\n/static/0ffcb090c866541ff1f774c642545c16/f20d7/demo.avif 1400w",
+                          "type": "image/avif",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        },
+                        {
+                          "srcSet": "/static/0ffcb090c866541ff1f774c642545c16/51bad/demo.webp 175w,\n/static/0ffcb090c866541ff1f774c642545c16/c6bc4/demo.webp 350w,\n/static/0ffcb090c866541ff1f774c642545c16/1deb5/demo.webp 700w,\n/static/0ffcb090c866541ff1f774c642545c16/6ad5b/demo.webp 1400w",
+                          "type": "image/webp",
+                          "sizes": "(min-width: 700px) 700px, 100vw"
+                        }
+                      ]
+                    },
+                    "width": 700,
+                    "height": 701
+                  }
+                }
+              },
+              "tech": ["Kotlin", "Firebase", "Android"],
+              "github": "https://github.com/kvntzn/QuizApp",
+              "external": "https://play.google.com/store/apps/details?id=com.heathkev.quizado"
+            },
+            "html": "<p>An Android Mobile App project with Quizzes and Leaderboard system.</p>"
+          }
+        }
+      ]
+    }
+  }
+}

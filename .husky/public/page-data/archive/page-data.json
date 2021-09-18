@@ -1,0 +1,134 @@
+{
+  "componentChunkName": "component---src-pages-archive-js",
+  "path": "/archive/",
+  "result": {
+    "data": {
+      "allMarkdownRemark": {
+        "edges": [
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021-03-15",
+                "title": "Face API",
+                "tech": ["Tensorflow", "Nodejs"],
+                "github": "https://github.com/kvntzn/face-api",
+                "external": "https://dev.to/kvntzn/using-face-api-in-nodejs-38aj",
+                "ios": null,
+                "android": null,
+                "company": "Personal"
+              },
+              "html": "<p>API for detecting faces</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2021",
+                "title": "iQorian",
+                "tech": ["React Native", "Nodejs"],
+                "github": null,
+                "external": "https://iqor.com/",
+                "ios": null,
+                "android": "https://play.google.com/store/apps/details?id=com.iqor.iqorian",
+                "company": "iQor"
+              },
+              "html": ""
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020",
+                "title": "Kachinga",
+                "tech": ["Xamarin", ".Net Core"],
+                "github": null,
+                "external": "https://kachinga.com/",
+                "ios": "https://apps.apple.com/us/app/kachinga/id1470044737?mt=8",
+                "android": "https://play.google.com/store/apps/details?id=com.ecuiti.kachinga&hl=en_US%20target=",
+                "company": "Filam Software Technology"
+              },
+              "html": ""
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020",
+                "title": "Quizado",
+                "tech": ["Kotlin", "Firebase"],
+                "github": null,
+                "external": "https://play.google.com/store/apps/details?id=com.heathkev.quizado",
+                "ios": null,
+                "android": "https://play.google.com/store/apps/details?id=com.heathkev.quizado",
+                "company": "Personal"
+              },
+              "html": ""
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2020",
+                "title": "Weather Search",
+                "tech": ["Xamarin", "C#"],
+                "github": null,
+                "external": "https://github.com/kvntzn/Weather-Search",
+                "ios": null,
+                "android": null,
+                "company": "Personal"
+              },
+              "html": "<p>Weather Application</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018",
+                "title": "Ominous",
+                "tech": ["Unity", "C#"],
+                "github": null,
+                "external": "https://play.google.com/store/apps/details?id=com.brotherhood.ominous",
+                "ios": null,
+                "android": "https://play.google.com/store/apps/details?id=com.brotherhood.ominous",
+                "company": "Personal"
+              },
+              "html": "<p>3D first person perspective Horror game</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2018",
+                "title": "Legendoyo",
+                "tech": ["GameMaker", "C++"],
+                "github": "https://github.com/kvntzn/Legendoyo",
+                "external": "https://github.com/kvntzn/Legendoyo",
+                "ios": null,
+                "android": null,
+                "company": "Personal"
+              },
+              "html": "<p>3D first person perspective Horror game</p>"
+            }
+          },
+          {
+            "node": {
+              "frontmatter": {
+                "date": "2017",
+                "title": "Dragon Call",
+                "tech": ["GameMaker", "C++"],
+                "github": "https://github.com/kvntzn/Dragoncall",
+                "external": "https://github.com/kvntzn/Dragoncall",
+                "ios": null,
+                "android": null,
+                "company": "Personal"
+              },
+              "html": "<p>3D first person perspective Horror game</p>"
+            }
+          }
+        ]
+      }
+    },
+    "pageContext": {}
+  },
+  "staticQueryHashes": ["1481993802", "1994492073", "3688249225", "604461682"]
+}

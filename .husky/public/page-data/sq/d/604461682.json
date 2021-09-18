@@ -1,0 +1,44 @@
+{
+  "data": {
+    "jobs": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Engineer",
+              "company": "Simple Cloudology",
+              "location": "Wyoming USA",
+              "range": "August 2021 - present",
+              "url": "https://www.simplecloudology.com/"
+            },
+            "html": "<ul>\n<li>Developing a mobile application using React Native &#x26; Nodejs for the Backend</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "IT Analyst",
+              "company": "iQor",
+              "location": "Clark",
+              "range": "Dec 2020 - Present",
+              "url": "https://www.iqor.com/"
+            },
+            "html": "<ul>\n<li>Led the engineering efforts to help everyday iQorians to access their company information easily</li>\n<li>Write modern, performant, maintainable code for a diverse array of external/internal projects</li>\n<li>Work with a variety of different languages, platforms, frameworks such as JavaScript, TypeScript, React, React Native, Nodejs, Tensorflow, and Azure</li>\n<li>Researched, designed, and implemented chat and audio/video calls capabilities</li>\n<li>Built CI/CD pipelines using Azure Pipelines and AppCenter to automate testing and releases</li>\n<li>Creating task and estimation in Azure Devops</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Software Engineer",
+              "company": "Filam Software",
+              "location": "Angeles City",
+              "range": "June 2018 - December 2020",
+              "url": "https://www.filamsoftware.com/"
+            },
+            "html": "<ul>\n<li>Built from scratch financial literacy application for parents and kids which had 1,000 downloads</li>\n<li>Developed and shipped highly interactive mobile application using Xamarin &#x26; .Net Core</li>\n<li>Researched, designed,and implemented third party APIs to link user's Bank account and order a Kachinga debit card</li>\n<li>Designed HTML email templates and Implemented an email sending system</li>\n<li>Worked closely with other developers, QA, and the Data Science team.</li>\n</ul>"
+          }
+        }
+      ]
+    }
+  }
+}

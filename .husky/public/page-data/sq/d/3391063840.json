@@ -1,0 +1,30 @@
+{
+  "data": {
+    "projects": {
+      "edges": [
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Face API",
+              "tech": ["Tensorflow", "Nodejs"],
+              "github": "https://github.com/kvntzn/face-api",
+              "external": "https://dev.to/kvntzn/using-face-api-in-nodejs-38aj"
+            },
+            "html": "<p>API for detecting faces</p>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
+              "title": "Ominous",
+              "tech": ["Unity", "C#"],
+              "github": null,
+              "external": "https://play.google.com/store/apps/details?id=com.brotherhood.ominous"
+            },
+            "html": "<p>3D first person perspective Horror game</p>"
+          }
+        }
+      ]
+    }
+  }
+}
