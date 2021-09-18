@@ -5,6 +5,7 @@ company: 'Simple Cloudology'
 location: 'Wyoming USA'
 range: 'August 2021 - present'
 url: 'https://www.simplecloudology.com/'
+showInProjects: false
 ---
 
-- Developed and shipped highly interactive mobile application using React Native & Nodejs
+- Developing a mobile application using React Native & Nodejs for the Backend

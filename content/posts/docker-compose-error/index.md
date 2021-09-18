@@ -2,7 +2,8 @@
 title: Docker Compose Error
 description: docker-compose version discrepancies
 date: '2019-12-13'
-draft: false
+showInProjects: false
+draft: true
 slug: '/pensieve/docker-error'
 tags:
   - WordPress
