@@ -145,29 +145,30 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Kevin Tuazon and I enjoy creating mobile apps.</p>
-
             <p>
-              Currently helping building a platform that makes a portal easily accessible to all
-              employees.
+              Hello! My name is Kevin Tuazon and I enjoy creating mobile apps and recently got into
+              web development.
             </p>
+
+            <p>Currently helping building inclusive products and digital experiences</p>
 
             <p>
               Previously building an application that bringing financial literacy to the next
               generation by giving parents the tools and guidance to teach their kids to be smart
-              with money.
+              with money and a platform that makes a portal easily accessible to all employees.
             </p>
 
             <p>
               I've had the privilege of working at startups,{' '}
-              <a href="https://filamsoftware.com/#home">a software development company</a>. My main
-              focus these days is building accessible, inclusive products and digital experiences at{' '}
-              <a href="https://www.iqor.com/">iQor</a> for iQor employees.
+              <a href="https://filamsoftware.com/#home">a software development company</a>. and a{' '}
+              <a href="https://www.iqor.com/">BPO Company</a>. My main focus these days is building
+              accessible, inclusive products and digital experiences at Accenture.
             </p>
 
             <p>
               Aside from development, I'd like to spent my time with my family,{' '}
-              <a href="https://www.strava.com/athletes/81600008/">cycling</a>, photography,
+              <a href="https://www.strava.com/athletes/81600008/">cycling</a>,{' '}
+              <a href="https://www.instagram.com/wandermaevn/"> photography</a>,
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
