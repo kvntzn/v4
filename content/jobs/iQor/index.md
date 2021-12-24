@@ -3,7 +3,7 @@ date: '2020-12-06'
 title: 'IT Analyst'
 company: 'iQor'
 location: 'Clark'
-range: 'Dec 2020 - Present'
+range: 'December 2020 - October 2021'
 url: 'https://www.iqor.com/'
 showInProjects: false
 ---
