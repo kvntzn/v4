@@ -145,17 +145,15 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is Kevin Tuazon and I enjoy creating mobile apps and recently got into
-              web development.
-            </p>
+            <p>Hello! My name is Kevin Tuazon and I enjoy creating mobile and web apps.</p>
 
             <p>Currently helping building inclusive products and digital experiences</p>
 
             <p>
               Previously building an application that bringing financial literacy to the next
               generation by giving parents the tools and guidance to teach their kids to be smart
-              with money and a platform that makes a portal easily accessible to all employees.
+              with money, another application that makes a portal easily accessible to all
+              employees, and a fintech stock invesing/trading application.
             </p>
 
             <p>
