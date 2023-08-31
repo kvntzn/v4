@@ -65,12 +65,11 @@ const StyledPic = styled.div`
 
     &:hover,
     &:focus {
-      background: transparent;
       outline: 0;
+      transform: translate(-4px, -4px);
 
       &:after {
-        top: 15px;
-        left: 15px;
+        transform: translate(8px, 8px);
       }
 
       .img {
@@ -107,8 +106,8 @@ const StyledPic = styled.div`
 
     &:after {
       border: 2px solid var(--green);
-      top: 20px;
-      left: 20px;
+      top: 14px;
+      left: 14px;
       z-index: -1;
     }
   }
@@ -157,10 +156,14 @@ const About = () => {
             </p>
 
             <p>
-              I've had the privilege of working at startups,{' '}
-              <a href="https://filamsoftware.com/#home">a software development company</a>. and a{' '}
-              <a href="https://www.iqor.com/">BPO Company</a>. My main focus these days is building
-              accessible, inclusive products and digital experiences at Accenture.
+              Fast-forward to today, and I've had the privilege of working at{' '}
+              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
+              <a href="https://starry.com/">a start-up</a>,{' '}
+              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
+              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
+              main focus these days is building accessible, inclusive products and digital
+              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
+              clients.
             </p>
 
             <p>
@@ -169,7 +172,7 @@ const About = () => {
               <a href="https://www.instagram.com/wandermaevn/"> photography</a>,
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
