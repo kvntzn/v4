@@ -67,8 +67,8 @@ const Hero = () => {
       <p>
         I'm a software engineer specializing in building (and occasionally designing) exceptional
         mobile applications. Currently, I'm focused on building accessible products for{' '}
-        <a href="https://www.accenture.com/ph-en" target="_blank" rel="noreferrer">
-          Accenture
+        <a href="https://www.rideminder.com/" target="_blank" rel="noreferrer">
+          RideMinder
         </a>
         .
       </p>

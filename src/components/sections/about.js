@@ -146,26 +146,6 @@ const About = () => {
           <div>
             <p>Hello! My name is Kevin Tuazon and I enjoy creating mobile and web apps.</p>
 
-            <p>Currently helping building inclusive products and digital experiences</p>
-
-            <p>
-              Previously building an application that bringing financial literacy to the next
-              generation by giving parents the tools and guidance to teach their kids to be smart
-              with money, another application that makes a portal easily accessible to all
-              employees, and a fintech stock invesing/trading application.
-            </p>
-
-            <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
-
             <p>
               Aside from development, I'd like to spent my time with my family,{' '}
               <a href="https://www.strava.com/athletes/81600008/">cycling</a>,{' '}
