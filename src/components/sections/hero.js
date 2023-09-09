@@ -61,12 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Kevin Tuazon.</h2>;
-  const three = <h3 className="big-heading">I build things for web & mobile</h3>;
+  const three = <h3 className="big-heading">Software Engineer</h3>;
   const four = (
     <>
       <p>
-        I'm a software engineer specializing in building (and occasionally designing) exceptional
-        mobile applications. Currently, I'm focused on building accessible products for{' '}
+        I'm a dedicated software engineer with a passion for crafting exceptional mobile
+        applications. My expertise lies in architecting robust and user-centric solutions.
+        Currently, I'm channeling my skills towards building accessible products for{' '}
         <a href="https://www.rideminder.com/" target="_blank" rel="noreferrer">
           RideMinder
         </a>

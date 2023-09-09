@@ -144,15 +144,22 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! My name is Kevin Tuazon and I enjoy creating mobile and web apps.</p>
-
             <p>
-              Aside from development, I'd like to spent my time with my family,{' '}
-              <a href="https://www.strava.com/athletes/81600008/">cycling</a>,{' '}
-              <a href="https://www.instagram.com/wandermaevn/"> photography</a>,
+              Greetings! I'm Kevin Tuazon, a seasoned software engineer with a penchant for crafting
+              innovative mobile applications
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>
+              Beyond the realm of development, I find joy in cherishing moments with my family,
+              engaging in <a href="https://www.strava.com/athletes/81600008/">physical activity</a>,
+              {' and'}
+              <a href="https://www.instagram.com/wandermaevn/">
+                capturing the world through the lens of my camera
+              </a>
+              ,
+            </p>
+
+            <p>In my recent projects, I've been immersed in harnessing the power of:</p>
           </div>
 
           <ul className="skills-list">
