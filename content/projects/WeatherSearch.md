@@ -1,5 +1,5 @@
 ---
-date: '2020'
+date: '2019'
 title: 'Weather Search'
 external: 'https://github.com/kvntzn/Weather-Search'
 tech:
