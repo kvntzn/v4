@@ -15,17 +15,21 @@ module.exports = {
       url: 'https://dev.to/kvntzn',
     },
     {
-      name: 'Facebook',
-      url: 'https://www.facebook.com/kevin.tuazonx/',
+      name: 'Bluesky',
+      url: 'https://bsky.app/profile/tuazonkevin.com',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/KvnTzn',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/kvntzn_',
-    },
+    // {
+    //   name: 'Facebook',
+    //   url: 'https://www.facebook.com/kevin.tuazonx/',
+    // },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/KvnTzn',
+    // },
+    // {
+    //   name: 'Instagram',
+    //   url: 'https://www.instagram.com/kvntzn_',
+    // },
   ],
 
   navLinks: [

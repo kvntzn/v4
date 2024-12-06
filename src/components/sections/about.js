@@ -126,15 +126,14 @@ const About = () => {
   }, []);
 
   const skills = [
+    'React Native/Expo',
+    'React/Next js',
+    'Nodejs/Express/Nestjs',
+    'MongoDB/MS SQL',
     'JavaScript (ES6+)',
     'TypeScript',
-    'Nodejs',
-    '.Net Core',
-    'React/React Native',
     'Xamarin',
-    'Android',
-    'Kotlin',
-    'Flutter',
+    '.Net Core',
   ];
 
   return (
@@ -153,10 +152,7 @@ const About = () => {
               Beyond the realm of development, I find joy in cherishing moments with my family,
               engaging in <a href="https://www.strava.com/athletes/81600008/">physical activity</a>,
               {' and'}
-              <a href="https://www.instagram.com/wandermaevn/">
-                capturing the world through the lens of my camera
-              </a>
-              ,
+              <a href="https://www.instagram.com/wandermaevn/">photography</a>,
             </p>
 
             <p>In my recent projects, I've been immersed in harnessing the power of:</p>
