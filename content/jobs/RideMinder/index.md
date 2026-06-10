@@ -1,8 +1,8 @@
 ---
 date: '2022-05-28'
-title: 'Senior Mobile Engineer'
+title: 'Senior Fullstack Engineer'
 company: 'RideMinder'
-location: 'Australlia'
+location: 'Australia'
 range: 'May 2022 - present'
 url: 'https://www.rideminder.com/'
 showInProjects: false
